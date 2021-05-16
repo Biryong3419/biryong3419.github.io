@@ -1,5 +1,5 @@
 ---
-title: "타입스크립트 설치하기"
+title: "타입스크립트 설치하기."
 date: 2019-05-08 14:01:00 -0400
 categories: javascript
 ---
